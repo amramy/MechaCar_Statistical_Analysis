@@ -26,3 +26,21 @@ Review porduction data for insights that may help AutosRUs' manufactureing team 
 
 
 <img width="414" alt="Lot_summary " src="https://user-images.githubusercontent.com/111904266/215526362-d2c3db80-37a8-48ee-8b44-9e4e74a11ab5.png">
+
+
+## T-Test on Suspension Coils
+
+* Summarize and interpretate finding for the t-test
+
+* T-Test
+<img width="357" alt="t-test " src="https://user-images.githubusercontent.com/111904266/215572545-822cc555-801b-4406-8eca-f80d273041f5.png">
+
+* T-Test Lot1
+<img width="551" alt="t-test lot1" src="https://user-images.githubusercontent.com/111904266/215572761-13d95b48-0588-401c-aad3-47cd1b6bbd4d.png">
+
+* T-Test Lot2
+<img width="544" alt="t-test lot2" src="https://user-images.githubusercontent.com/111904266/215572821-68321fec-1f6f-4b1a-a55a-9c0cdfbdc4be.png">
+
+* T-Test Lot3
+<img width="545" alt="t-test lot3" src="https://user-images.githubusercontent.com/111904266/215573055-b3b2e2cf-a9a3-4ed7-bb75-8791583df562.png">
+
