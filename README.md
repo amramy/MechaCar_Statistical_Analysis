@@ -6,7 +6,9 @@ Review porduction data for insights that may help AutosRUs' manufactureing team 
 ## Linear Regression to Predict MPG
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-   As the significance value we are using is 0.05 the Vechicle_length with p
+   When comparing the p-value to the significance level of 0.05 the Vechicle_length with P-value of 2.60e-12 and ground_clearance with P-value of 5.21e-08 are both below the significance level therefor have non-random amounts of variance in the dataset to reject the null hypothesis for these two categories. 
+   The remaining categies vechicle_weight, spoiler angle, and AWD were above the significance level which means they have a random amount of variance. 
+   
 * Is the slope of the linear model considered to be zero? Why or why not?
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
